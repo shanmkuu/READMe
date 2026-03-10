@@ -1,40 +1,57 @@
-Hi there, I'm Emmanuel Leshan! 👋🇰🇪
-Cybersecurity Analyst | Security Operations | Pentester | BlueTeaming
+# Hi there, I'm Emmanuel Leshan! 👋 🇰🇪
+### Cybersecurity Analyst | Security Operations | Blue Teamer | Pentester
 
+A dedicated Cybersecurity professional focused on building resilient network defenses and automated security workflows. I specialize in monitoring, hardening, and incident response.
 
-🔭 I’m currently working on: Building an automated log analysis tool using Python.
+---
 
-🎓 Alma Mater: Zetech University (Cybersecurity & Forensics).
+### 🛡️ Professional Overview
+* **🔭 Currently Working On:** Building an automated log analysis tool using Python.
+* **🎓 Alma Mater:** Zetech University (BSc. Cybersecurity & Forensics).
+* **📜 Certifications:** Google Cybersecurity Professional Certificate (CompTIA Security+ & PenTest+ in progress).
+* **🧩 Interests:** Incident Response, Network Hardening, SIEM Management, and Threat Hunting.
 
-🛡️ Certifications: Google Cybersecurity Professional Certificate. (more certifications underway:coming soon)
+---
 
-🧩 Interests: Incident response and management, Network Hardening, BlueTeaming and Pentesting.
+### 🛠️ Technical Stack & Tools
 
-🛠️ Technical Stack
-Management	Vulnerability Scanners (e.g., Nessus, Qualys) and Patch Management systems.
-EDR (Endpoint Detection and Response) or XDR (Extended Detection and Response) solutions like CrowdStrike, SentinelOne, or Microsoft Defender.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft-defender&logoColor=white)
 
-Defense: Splunk (SIEM), Snort/Suricata (IDS), Cisco Packet Tracer
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Defense & SIEM** | Splunk, Snort, Suricata, Cisco Packet Tracer, pfSense |
+| **Endpoint Security** | EDR/XDR (CrowdStrike, SentinelOne, MS Defender) |
+| **Vulnerability Mgt** | Nessus, Qualys, Patch Management Workflows |
+| **Networking** | Wireguard, Zero Trust Architecture, Nftables, VPN Gateways |
+| **Cloud/Code** | Python (Automation), SQL, Bash Scripting |
 
-Code: Python (Automation), SQL, Bash
+---
 
-OS: Linux (Kali/Ubuntu), Windows Server
+### 🚀 Security Projects
 
-  <h1> Projects </h1>
-- <h2> [Network Security]() </h2>
-- <b> Firewall Configuration </b>
-  - [Virtualized Enterprise lab](https://github.com/shanmkuu/Virtualized-Enterprise-Lab-pfSense-OPNsense-)
-   - [Automated cloud edge defense](https://github.com/shanmkuu/Automated-Cloud-Edge-Defense)
-    - [Linux Hardened Nftables](https://github.com/shanmkuu/Linux-Hardened-Nftables-Configuration)
-- <b> Vpn Implementation</b>
-  - [Cloud vpn gateway With canary Breach Alerts](https://github.com/shanmkuu/Cloud-VPN-Gateway-with-Canary-Breach-Alerts)
-  - [Zero TrustMesh Vpn with Wireguard and Netmaker](https://github.com/shanmkuu/Zero-Trust-Mesh-VPN-with-WireGuard-Netmaker)
-- <b> Network Monitoring </b>
-  - [Network Security Monitoring Stack](https://github.com/shanmkuu/Network-Security-Monitoring-Stack-NSM-)
-- <b> Intrusion Detection System IDS </b>
-  -[Internal Network Intrusion Detection System](https://github.com/shanmkuu/Internal-Network-Traffic-Monitoring-Intrusion-Detection-System-IDS-)
+#### 🌐 Network Security & Firewall Hardening
+* **[Virtualized Enterprise Lab](https://github.com/shanmkuu/Virtualized-Enterprise-Lab-pfSense-OPNsense-)** - Deploying pfSense and OPNsense in a virtualized corporate environment.
+* **[Automated Cloud Edge Defense](https://github.com/shanmkuu/Automated-Cloud-Edge-Defense)** - Implementing automated scripts to protect cloud perimeter assets.
+* **[Linux Hardened Nftables](https://github.com/shanmkuu/Linux-Hardened-Nftables-Configuration)** - Custom firewall configurations to mitigate common attack vectors.
 
+#### 🔐 VPN & Zero Trust Implementation
+* **[Cloud VPN Gateway with Canary Alerts](https://github.com/shanmkuu/Cloud-VPN-Gateway-with-Canary-Breach-Alerts)** - Secure gateway featuring "Canary" tokens for early breach detection.
+* **[Zero Trust Mesh VPN](https://github.com/shanmkuu/Zero-Trust-Mesh-VPN-with-WireGuard-Netmaker)** - Utilizing Wireguard and Netmaker for decentralized, secure connectivity.
 
-<h2> 🤳 Connect with me:</h2>
-[Linkedin](https://www.linkedin.com/in/emmanuel-leshan-7495433a0/)
-[More Info](https://wwww.shanmkuu.vercel.app)
+#### 📊 Monitoring & Detection (IDS/NSM)
+* **[Network Security Monitoring (NSM) Stack](https://github.com/shanmkuu/Network-Security-Monitoring-Stack-NSM-)** - A full-visibility stack for traffic analysis and logging.
+* **[Internal Network IDS](https://github.com/shanmkuu/Internal-Network-Traffic-Monitoring-Intrusion-Detection-System-IDS-)** - Real-time traffic monitoring and intrusion detection within internal subnets.
+
+---
+
+### 🤳 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-leshan-7495433a0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shanmkuu.vercel.app)
+
+---
+![Shanmkuu's Stats](https://github-readme-stats.vercel.app/api?username=shanmkuu&show_icons=true&theme=tokyonight)
