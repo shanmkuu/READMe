@@ -1,15 +1,14 @@
 Hi there, I'm Emmanuel Leshan! 👋🇰🇪
-Cybersecurity Analyst | Security Operations | GRC
+Cybersecurity Analyst | Security Operations | Pentester | BlueTeaming
 
-I am a security professional bridging the gap between academic rigor (Zetech University) and operational agility (Google Cybersecurity Certificate). My passion lies in using digital forensics to uncover the truth and robust network controls to prevent future attacks.
 
 🔭 I’m currently working on: Building an automated log analysis tool using Python.
 
-🎓 Alma Mater: Zetech University (Diploma in Cybersecurity & Forensics).
+🎓 Alma Mater: Zetech University (Cybersecurity & Forensics).
 
 🛡️ Certifications: Google Cybersecurity Professional Certificate. (more certifications underway:coming soon)
 
-🧩 Interests: Incident response and management, Network Hardening, Governance, and DPA 2019 Compliance.
+🧩 Interests: Incident response and management, Network Hardening, BlueTeaming and Pentesting.
 
 🛠️ Technical Stack
 Management	Vulnerability Scanners (e.g., Nessus, Qualys) and Patch Management systems.
@@ -21,5 +20,21 @@ Code: Python (Automation), SQL, Bash
 
 OS: Linux (Kali/Ubuntu), Windows Server
 
-📈 GitHub Stats
-https://www.linkedin.com/in/emmanuel-leshan-7495433a0/
+  <h1> Projects </h1>
+- <h2> [Network Security]() </h2>
+- <b> Firewall Configuration </b>
+  - [Virtualized Enterprise lab](https://github.com/shanmkuu/Virtualized-Enterprise-Lab-pfSense-OPNsense-)
+   - [Automated cloud edge defense](https://github.com/shanmkuu/Automated-Cloud-Edge-Defense)
+    - [Linux Hardened Nftables](https://github.com/shanmkuu/Linux-Hardened-Nftables-Configuration)
+- <b> Vpn Implementation</b>
+  - [Cloud vpn gateway With canary Breach Alerts](https://github.com/shanmkuu/Cloud-VPN-Gateway-with-Canary-Breach-Alerts)
+  - [Zero TrustMesh Vpn with Wireguard and Netmaker](https://github.com/shanmkuu/Zero-Trust-Mesh-VPN-with-WireGuard-Netmaker)
+- <b> Network Monitoring </b>
+  - [Network Security Monitoring Stack](https://github.com/shanmkuu/Network-Security-Monitoring-Stack-NSM-)
+- <b> Intrusion Detection System IDS </b>
+  -[Internal Network Intrusion Detection System](https://github.com/shanmkuu/Internal-Network-Traffic-Monitoring-Intrusion-Detection-System-IDS-)
+
+
+<h2> 🤳 Connect with me:</h2>
+[Linkedin](https://www.linkedin.com/in/emmanuel-leshan-7495433a0/)
+[More Info](https://wwww.shanmkuu.vercel.app)
