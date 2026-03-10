@@ -54,4 +54,4 @@ A dedicated Cybersecurity professional focused on building resilient network def
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shanmkuu.vercel.app)
 
 ---
-![Shanmkuu's Stats](https://github-readme-stats.vercel.app/api?username=shanmkuu&show_icons=true&theme=tokyonight)
+
