@@ -47,6 +47,9 @@ A dedicated Cybersecurity professional focused on building resilient network def
 * **[Network Security Monitoring (NSM) Stack](https://github.com/shanmkuu/Network-Security-Monitoring-Stack-NSM-)** - A full-visibility stack for traffic analysis and logging.
 * **[Internal Network IDS](https://github.com/shanmkuu/Internal-Network-Traffic-Monitoring-Intrusion-Detection-System-IDS-)** - Real-time traffic monitoring and intrusion detection within internal subnets.
 
+* #### 🌐 Ethical Hacking
+* **[ShadowMap](https://github.com/shanmkuu/Automated-Recon-Framework/)** - A modular reconnaissance framework called 'ShadowMap' for discovering active hosts and subdomains.
+
 ---
 
 ### 🤳 Connect with me:
