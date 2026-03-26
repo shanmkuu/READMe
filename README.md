@@ -8,7 +8,7 @@ A dedicated Cybersecurity professional focused on building resilient network def
 ### 🛡️ Professional Overview
 * **🔭 Currently Working On:** Building an automated log analysis tool using Python.
 * **🎓 Alma Mater:** Zetech University (BSc. Cybersecurity & Forensics).
-* **📜 Certifications:** Google Cybersecurity Professional Certificate (CompTIA Security+ & PenTest+ in progress).
+* **📜 Certifications:** ISC2 CC & Google Cybersecurity Professional Certificate (CompTIA Security+ & PenTest+ in progress).
 * **🧩 Interests:** Incident Response, Network Hardening, SIEM Management, and Threat Hunting.
 
 ---
