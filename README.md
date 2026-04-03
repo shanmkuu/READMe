@@ -1,7 +1,7 @@
 # Hi there, I'm Emmanuel Leshan! 👋 🇰🇪
 ### Cybersecurity Analyst | Security Operations | Blue Teamer | Pentester
 
-A dedicated Cybersecurity professional focused on building resilient network defenses and automated security workflows. I specialize in monitoring, hardening, and incident response.
+A dedicated Cybersecurity professional focused on building resilient network defenses and automated security workflows. I specialize in monitoring, hardening, and incident response. Transitioning to Dev Ops.
 
 ---
 
